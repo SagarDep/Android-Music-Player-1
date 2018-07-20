@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/saketkumar/Desktop/Perpule/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/saketkumar/Desktop/Perpule/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/saketkumar/Downloads/RetrofitRxJava/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/saketkumar/Downloads/RetrofitRxJava/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/saketkumar/Desktop/RetrofitRxJava/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/saketkumar/Desktop/RetrofitRxJava/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
