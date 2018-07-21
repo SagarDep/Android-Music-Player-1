@@ -1,4 +1,4 @@
-#Sat Jul 21 02:24:53 IST 2018
+#Sat Jul 21 14:21:30 IST 2018
 base.0=/Users/saketkumar/Desktop/Perpule/app/build/intermediates/transforms/jack/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/saketkumar/Desktop/Perpule/app/build/intermediates/transforms/jack/debug/folders/1000/1f/main/classes.dex
