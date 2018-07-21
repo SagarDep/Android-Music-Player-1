@@ -15,6 +15,7 @@ bin/
 .gradle/
 *.iml
 .idea
+-/.idea/workspace.xml
 
 app/gradle.properties
 
