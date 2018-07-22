@@ -16,10 +16,8 @@ Check List :
 - [ ] Offline Support
 
 # ScreenShots
-
-![screenshot](./screen1.jpg)
-![screenshot](./screen2.jpg)
-![screenshot](./screen3.jpg)
-
-
-
+<p float="left">
+  <img width="288" src="./screen1.jpg">
+  <img width="288" src="./screen3.jpg">
+  <img width="288" src="./screen2.jpg">
+</p>
