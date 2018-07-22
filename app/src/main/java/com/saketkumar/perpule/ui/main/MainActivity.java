@@ -15,6 +15,7 @@ import com.saketkumar.perpule.ui.base.BaseActivity;
 import com.saketkumar.perpule.ui.main.adapter.DataAdapter;
 import com.saketkumar.perpule.network.RequestInterface;
 import com.saketkumar.perpule.data.DataManager;
+import com.saketkumar.perpule.utils.Constants;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -26,8 +27,6 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends BaseActivity implements MainMvpView {
-
-    public static final String BASE_URL = "https://api.myjson.com/";
 
     private RecyclerView mRecyclerView;
 
@@ -63,7 +62,7 @@ public class MainActivity extends BaseActivity implements MainMvpView {
 
     private void loadJSON() {
         RequestInterface requestInterface = new Retrofit.Builder()
-                .baseUrl(BASE_URL)
+                .baseUrl(Constants.BASE_URL)
                 .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
                 .addConverterFactory(GsonConverterFactory.create())
                 .build().create(RequestInterface.class);

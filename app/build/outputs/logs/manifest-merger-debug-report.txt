@@ -1,79 +1,162 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.hanks:htextview-typer:0.1.6] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/htextview-typer-0.1.6.aar/494dcb936fcf947a68a59e64d0fb6a57/AndroidManifest.xml:2:1-16:12
+MERGED from [com.hanks:htextview-base:0.1.6] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/htextview-base-0.1.6.aar/1ada429a8914383a40a42a82bca87da2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/6655a51111755e29270ab13e74c7c696/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9160005f53d60970eaa547abadabe362/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/0b61b1a9dccc7d37976657c0be2d2968/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-dynamic-animation:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-dynamic-animation-26.1.0.aar/fe048d65e6efa9d74a9304d4b0d1ee3c/AndroidManifest.xml:17:1-28:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/edde888623d7c02d5aae68431b1a4429/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f5282799b325d49ce38ed504134b88ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8a94c7cf51a50e2f9d05d17a094b8ea9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/eb557e309fb23ab1c0aa7e17d9ee0bb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/56517c67bd362f02fdf2563d77053ffa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/6337950a9b5f4ce8ac36b0628b0276e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/79b93e4b8d4c1e063136b4bd5b13dbe3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/30b60dd01a65e896868d12d9687d78bc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d89f2a0318d9a2d5ed4e0f26e3d86064/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/15c3c0568a48fa17f01730955da8bd6b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c1f489bdc98ffc2e415a8aa6797c42e5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:2:1-34:12
 	package
 		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:2:1-34:12
 		INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:2:11-69
-	android:versionCode
-		INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:5:5-66
 	android:name
 		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:7:5-21:19
-MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/AndroidManifest.xml:22:5-20
-	android:label
-		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:11:9-41
+ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:7:5-32:19
+MERGED from [com.hanks:htextview-typer:0.1.6] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/htextview-typer-0.1.6.aar/494dcb936fcf947a68a59e64d0fb6a57/AndroidManifest.xml:11:5-14:19
+MERGED from [com.hanks:htextview-typer:0.1.6] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/htextview-typer-0.1.6.aar/494dcb936fcf947a68a59e64d0fb6a57/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9160005f53d60970eaa547abadabe362/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9160005f53d60970eaa547abadabe362/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/0b61b1a9dccc7d37976657c0be2d2968/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/0b61b1a9dccc7d37976657c0be2d2968/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-dynamic-animation:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-dynamic-animation-26.1.0.aar/fe048d65e6efa9d74a9304d4b0d1ee3c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-dynamic-animation:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-dynamic-animation-26.1.0.aar/fe048d65e6efa9d74a9304d4b0d1ee3c/AndroidManifest.xml:22:5-26:19
 	android:supportsRtl
 		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:12:9-35
-	android:allowBackup
-		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:11:9-41
 	android:icon
 		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
 		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:13:9-40
 	android:name
 		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:8:9-38
-activity#com.saketkumar.perpule.ui.main.MainActivity
-ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:14:9-20:20
+activity#com.saketkumar.perpule.ui.splash.SplashActivity
+ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:14:9-21:20
+	android:theme
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:15:13-66
 	android:name
-		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:14:19-77
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:14:19-81
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.saketkumar.perpule.ui.main.MainActivity
+ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:22:9-58
+	android:name
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:22:19-55
+activity#com.saketkumar.perpule.ui.main.MusicPlayerActivity
+ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:23:9-24:68
+	android:theme
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:24:13-66
+	android:name
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:23:19-62
+service#com.saketkumar.perpule.player.PlayerService
+ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:25:9-28:19
+	android:exported
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:26:13-49
+service#com.saketkumar.perpule.network.download.DownloadService
+ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:29:9-31:40
+	android:exported
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml:30:13-61
 uses-sdk
 INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:cardview-v7:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/AndroidManifest.xml:20:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/AndroidManifest.xml:19:5-43
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.0.1] /Users/saketkumar/Desktop/Perpule/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/AndroidManifest.xml:23:9-75
+INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
+INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
+MERGED from [com.hanks:htextview-typer:0.1.6] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/htextview-typer-0.1.6.aar/494dcb936fcf947a68a59e64d0fb6a57/AndroidManifest.xml:7:5-9:41
+MERGED from [com.hanks:htextview-typer:0.1.6] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/htextview-typer-0.1.6.aar/494dcb936fcf947a68a59e64d0fb6a57/AndroidManifest.xml:7:5-9:41
+MERGED from [com.hanks:htextview-base:0.1.6] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/htextview-base-0.1.6.aar/1ada429a8914383a40a42a82bca87da2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.hanks:htextview-base:0.1.6] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/htextview-base-0.1.6.aar/1ada429a8914383a40a42a82bca87da2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/6655a51111755e29270ab13e74c7c696/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/6655a51111755e29270ab13e74c7c696/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9160005f53d60970eaa547abadabe362/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9160005f53d60970eaa547abadabe362/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/0b61b1a9dccc7d37976657c0be2d2968/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/0b61b1a9dccc7d37976657c0be2d2968/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-dynamic-animation:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-dynamic-animation-26.1.0.aar/fe048d65e6efa9d74a9304d4b0d1ee3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-dynamic-animation:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-dynamic-animation-26.1.0.aar/fe048d65e6efa9d74a9304d4b0d1ee3c/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/edde888623d7c02d5aae68431b1a4429/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/edde888623d7c02d5aae68431b1a4429/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f5282799b325d49ce38ed504134b88ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f5282799b325d49ce38ed504134b88ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8a94c7cf51a50e2f9d05d17a094b8ea9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8a94c7cf51a50e2f9d05d17a094b8ea9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/eb557e309fb23ab1c0aa7e17d9ee0bb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/eb557e309fb23ab1c0aa7e17d9ee0bb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/56517c67bd362f02fdf2563d77053ffa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/56517c67bd362f02fdf2563d77053ffa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/6337950a9b5f4ce8ac36b0628b0276e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/6337950a9b5f4ce8ac36b0628b0276e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/79b93e4b8d4c1e063136b4bd5b13dbe3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/79b93e4b8d4c1e063136b4bd5b13dbe3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/30b60dd01a65e896868d12d9687d78bc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/30b60dd01a65e896868d12d9687d78bc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d89f2a0318d9a2d5ed4e0f26e3d86064/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d89f2a0318d9a2d5ed4e0f26e3d86064/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/15c3c0568a48fa17f01730955da8bd6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/15c3c0568a48fa17f01730955da8bd6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c1f489bdc98ffc2e415a8aa6797c42e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c1f489bdc98ffc2e415a8aa6797c42e5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
+INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
 		INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/saketkumar/Desktop/Perpule/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9160005f53d60970eaa547abadabe362/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/0b61b1a9dccc7d37976657c0be2d2968/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/0b61b1a9dccc7d37976657c0be2d2968/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-dynamic-animation:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-dynamic-animation-26.1.0.aar/fe048d65e6efa9d74a9304d4b0d1ee3c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-dynamic-animation:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/support-dynamic-animation-26.1.0.aar/fe048d65e6efa9d74a9304d4b0d1ee3c/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9160005f53d60970eaa547abadabe362/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/saketkumar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/9160005f53d60970eaa547abadabe362/AndroidManifest.xml:24:13-51
