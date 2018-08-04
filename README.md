@@ -11,7 +11,7 @@ Check List :
 
 - [x] OOP concept
 
-- [x] MVP design pattern
+- [x] MVP Architecture
 
 - [x] Retrofit adapter with RxJava
 
@@ -22,6 +22,10 @@ Check List :
 - [x] Use a service.
 
 - [ ] Offline Support
+
+- [ ] Add More Animations
+
+- [ ] UI Changes
 
 # ScreenShots
 <p float="left">
