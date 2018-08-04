@@ -1,4 +1,12 @@
-# Perpule-Android-Assignment
+<p align="center">
+ <img width="700" src="./music.jpeg">
+</p>
+
+
+# Music Player
+
+This Project was the part for Full time job offer from Perpule , Banglore. I got the job offer. The assignment was to make the music player app using below lists. Some are completed and some are remaining. PRs are welcome. 
+
 Check List : 
 
 - [x] OOP concept
